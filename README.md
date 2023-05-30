@@ -1,4 +1,4 @@
-### Welcome 👋
+### About Me
 
 <!--
 **cupoftea0315/cupoftea0315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
